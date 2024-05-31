@@ -32,33 +32,6 @@
   - Whatsapp Application Devlopment(Freelance) -  Function Backend developer
   - Mevi Project for Universidade Catolica de Brasília - function Backend developer
 Experiência Profissional:
-🛠 Hard Skills
-
-## Linguagens de Programação:
-- C#
-- TypeScript
-- PHP
-- JavaScript
-## Habilidades em Banco de Dados
-- Bancos de Dados: PostgreSQL, MySql, MongoD
-- Criação de Diagramas de Banco de Dados
-## Infraestrutura de Software
-- Frameworks: Laravel (9.0), NextJs, Next
-- Documentação de API
-- Docker, Docker Compose
-- Criação de Diagramas de API e Software (fluxograma, organização e diagrama de impacto) com Figma
-- API RESTful
-- Gestão de Projetos no GitHub com definição de metas
-- Liderança Técnica - Trabalho com o Gerente de Equipe e o Programador back-end para construir a estrutura da aplicação
-- Método Ágil Scrum
-## Habilidades em Front-end
-- React-Js
-- Nextjs
-## Atividades
-- Participação em GameJam - Secretário de Estado para o Desenvolvimento Sustentável
-- Santa Catarina Games - Anima Jam
-- Repositório de Jogo Sea Wars (Brackeys GameJam) no Github
-  
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📬 Contact
  - 📧 Email - (vitorsantospessoal444@gmail.com)
