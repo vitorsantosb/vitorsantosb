@@ -31,7 +31,6 @@
   - RPG DISCORD BOT - My personal project using all my skills with development [repository](https://github.com/shadomal/rpg-discord)
   - Whatsapp Application Devlopment(Freelance) -  Function Backend developer
   - Mevi Project for Universidade Catolica de Brasília - function Backend developer
-Experiência Profissional:
 >-------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📬 Contact
  - 📧 Email - (vitorsantospessoal444@gmail.com)
