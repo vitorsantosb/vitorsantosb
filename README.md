@@ -2,7 +2,7 @@
  ### Hi there 👋 I am Vitor Batista \o/
 
 ## About me
-   > Hello ! My name is Vitor Batista, AKA Shadomal, currently I'm 22 years old. I have a Major in Game Development at IESB in Brasilia-DF and at the moment I'm specializing to be a good full stack programmer.
+   > Hello ! My name is Vitor Batista, AKA Shadomal, currently I'm 23 years old. I have a Major in Game Development at IESB in Brasilia-DF and at the moment I'm specializing to be a good Backend programmer.
   #### What are my hobbies?
    > I love to play games in my spare time, I like to research the news in the technology world, study new things related to my area and others.
   #### My Courses and certificates
