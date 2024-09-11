@@ -22,6 +22,9 @@
    >  - UDEMY
         - 3D games with Unity
         - Finished Year: 2021
+   >  - UDEMY: Node.js Microservices: NestJS, RabbitMQ and Cloud Services
+>     - Finished Year: 2024
+> 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## My Works
