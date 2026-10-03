@@ -1,41 +1,86 @@
+# Hi there, I'm Vitor Batista 👋
 
- ### Hi there 👋 I am Vitor Batista \o/
+**Software Developer · Backend & Full Stack · QA Automation**
+
+Based in Brasília, Brazil. Online, you'll also find me as **Shadomal**.
+
+I build APIs, maintain production applications, and develop automated tests for complex business workflows. My work combines software development and quality assurance, from implementing features to validating their behavior and supporting delivery through CI/CD.
 
 ## About me
-   > Hello ! My name is Vitor Batista, AKA Shadomal, currently I'm 24 years old. I have a Major in Game Development at IESB in Brasilia-DF and at the moment I'm specializing to be a good Backend programmer.
-  #### What are my hobbies?
-   > I love to play games in my spare time, I like to research the news in the technology world, study new things related to my area and others.
-  #### My Courses and certificates
-   
-   >  - Complete Collage Graduation - IESB SUL COLLAGE GRADUATION Digital Games
-         - Start Year - 2019
-         - Finish Year - 2021
-         
-   >  - INSTITUTE FOR SOCIAL AND HUMAN SCIENCES
-         - COMPUTER SCIENCE IN EDUCATION - 180h
-         - Finished Year: 2020
-         
-   >  - SECRETARY OF STATE FOR SUSTAINABLE DEVELOPMENT
-        - SANTA CATARINA GAMES - ANIMA JAM - 30h
-        - Finished Year: 2021
-        
-   >  - UDEMY
-        - 3D games with Unity
-        - Finished Year: 2021
-   >  - UDEMY: Node.js Microservices: NestJS, RabbitMQ and Cloud Services
->     - Finished Year: 2024
-> 
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## My Works
-  - HandGun(collage work) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/handgun)
-  - Miyuki Shiba Discord Bot Application(personal application), function backand and frontend programmer
-  - Sea Wars(Brackeys GameJam) Function backend programmer and front end programmer with unity. [repository](https://github.com/shadomal/boat-game)
-  - RPG DISCORD BOT - My personal project using all my skills with development [repository](https://github.com/shadomal/rpg-discord)
-  - Whatsapp Application Development(Freelance) -  Function Backend developer
-  - Mevi Project for Universidade Catolica de Brasília - function Backend developer
->-------------------------------------------------------------------------------------------------------------------------------------------------------
-# 📬 Contact
- - 📧 Email - (vitorsantospessoal444@gmail.com)
- - 🔗 Linkedin [Vitor Batista](https://www.linkedin.com/in/vitor-batista-36a159210/)
- - WhatsApp - 61 995770148
+- 💼 Software development and quality assurance at **SEA Tecnologia**.
+- ⚙️ Backend development with **Node.js, TypeScript, NestJS, Java, and Spring Boot**.
+- 🧪 Test automation with **Cypress, Selenium, and Appium**.
+- 🎓 Degree in **Digital Game Development** from IESB.
+- 🎮 Interested in games, backend architecture, developer tools, and application security.
+
+## Professional experience
+
+### SEA Tecnologia — Software Development & QA
+
+I work across document management systems, institutional portals, and internal products, with autonomy over QA activities for assigned projects.
+
+My work includes:
+
+- Developing and maintaining backend features for **SIGA**, using Java, Spring Boot, and Liferay.
+- Automating E2E tests for business rules involving permissions, confidentiality levels, administrative workflows, and document routing.
+- Testing web and mobile applications, including Android and iOS.
+- Performing manual, accessibility, and vulnerability testing.
+- Documenting application behavior and integrating automated tests into CI/CD pipelines.
+
+### Universidade Católica de Brasília — Full Stack Development
+
+Developed and maintained **MEVI**, a virtual mentoring platform serving approximately **300 users**.
+
+Worked with Node.js and MongoDB on mentoring management, events, activities, academic metrics, and production support.
+
+### Previous work & freelance projects
+
+- **BMSystems:** Full stack development, feature validation, database design, and team coordination.
+- **Âncora:** API development for order management and employee sales metrics using NestJS, TypeScript, MySQL, and Prisma.
+- **Freelance:** Website development, infrastructure migration, database migration, deployment, and production maintenance.
+
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Node.js, TypeScript, NestJS, Java, Spring Boot, Liferay |
+| Frontend | React, Next.js |
+| Databases & caching | PostgreSQL, MySQL, MongoDB, Redis |
+| Testing | Cypress, Selenium, Appium |
+| Infrastructure & delivery | Docker, Docker Compose, Linux, Nginx, GitHub Actions, CI/CD |
+| Messaging & code quality | RabbitMQ, SonarQube, Quality Gates |
+
+## Selected projects
+
+### MEVI — Virtual Mentoring Platform
+
+Professional project developed for Universidade Católica de Brasília, covering mentoring workflows, events, academic metrics, and production maintenance.
+
+### [RPG Discord Bot](https://github.com/shadomal/rpg-discord)
+
+Personal project combining my interests in software development, games, and RPG systems.
+
+### [Sea Wars](https://github.com/shadomal/boat-game)
+
+Unity game developed for a **Brackeys Game Jam**.
+
+### [HandGun](https://github.com/shadomal/handgun)
+
+Academic game development project built with **Unity** during my degree.
+
+## Education & certifications
+
+- **Degree in Digital Game Development** — IESB, Brasília · 2019–2021
+- **Node.js Microservices: NestJS, RabbitMQ and Cloud Services** — Udemy · 22.5 hours · 2024
+- **Computer Science in Education** — Institute for Social and Human Sciences · 180 hours · 2020
+
+## Beyond code
+
+I enjoy playing games, following technology news, and experimenting with new tools. My background in game development still influences how I approach software: understanding systems, connecting mechanics, and turning ideas into working experiences.
+
+## Let's connect
+
+- 📧 **Email:** [vitorbcsx@icloud.com](mailto:vitorbcsx@icloud.com)
+- 💼 **LinkedIn:** [Vitor Batista](https://www.linkedin.com/in/vitor-batista-36a159210/)
+- 💬 **WhatsApp:** [Get in touch](https://wa.me/5561995770148)
